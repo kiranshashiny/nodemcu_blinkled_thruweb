@@ -1,0 +1,11 @@
+Upload this to the nodemcu
+
+change the ssid and the password appropriately and upload .
+Lok up the serial monitor and get the IP address
+
+From your laptop - http://192.168.1.6
+
+Will give you 2 buttons - 
+LED on and off
+
+
